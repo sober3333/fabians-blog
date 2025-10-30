@@ -38,6 +38,13 @@ jobs:
         bundle config set path vendor/bundle
         bundle install --jobs=4 --retry=3
         bundle clean
+        bundle exec jekyll build --config _config.yml
+
+    - name: Upload built site
+      uses: actions/upload-artifact@v4
+      with:
+        name: site
+        path: _site
 
     - name: Update Algolia index
       working-directory: docs/
