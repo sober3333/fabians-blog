@@ -19,5 +19,4 @@ In sozialen Medien fühlen sich viele Menschen *genötigt*, mitzumachen, ihre Me
 
 Musste man in einem Online-Forum oder einer anderen frühen Interaktionsform des Netzes noch eine gewisse Reputation aufbauen um gelesen zu werden, reicht jetzt ein Ein-Zeiler zu einem Trigger-Thema. Wer möchte, bekommt so schier unendliche Aufmerksamkeit.
 
-Test 1 1 1 3
 
