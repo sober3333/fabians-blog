@@ -91,7 +91,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
     - label: "Datenschutz"
-      url: "https://fabian-mt.de/Datenschutz"  
+      url: "https://fabian-mt.de/datenschutz"  
     - label: "Impressum"
       url: "https://fabian-mt.de/impressum"  
 
