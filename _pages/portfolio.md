@@ -3,9 +3,9 @@ permalink: /portfolio/
 title: "Portfolio"
 ---
 
-Auf dieser Seite stelle ich aktuelle Medien-Snippets rund um meine Arbeit in der Unternehmenskommunikation zusammen.
+Auf dieser Seite stelle ich ausgewählte Medien-Snippets rund um meine Arbeit in der Unternehmenskommunikation zusammen.
 
-## News-Meldungen
+## CorpComm/Marketing-Portfolio
 
 ### Podiums-Diskussion zu Generativer KI
 ![IDX Panel Fabian Meyer-Theobaldy](<../assets/images/IDX Panel Munich.png>)
@@ -23,11 +23,4 @@ Ein wissenschaftlicher Beitrag, zusammen mit meiner Frau verfasst.
 Link zum Dokument: https://intrechtdok.de/receive/mir_mods_00009895
 
 ### Pressesprecher für hubergroup
-#### IT-Vorfall 
-![IT Incident](../assets/images/IT-Incident.png)
-Pressesprecher-Tätigkeit im Zusammenhang mit einem IT-Vorfall.  
-https://www.dsgvo-portal.de/sicherheitsvorfaelle/sicherheitsvorfall-hubergroup-DE-6948.php
-
-#### Verlagerung eines Produktionswerks
-![Artikel](../assets/images/image.png)
-Link zum Artikel: https://www.haz.de/lokales/umland/langenhagen/langenhagen-hubergroup-eroeffnet-neuen-standort-fuer-produktion-von-druckerfarbe-AWUO4KQPIVHCBL444K2IH4KUW4.html
+Siehe Unternehmens-Website: https://www.hubergroup.com/de/en/news/press-releases
