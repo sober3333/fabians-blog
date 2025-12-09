@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Hallo Welt - oder mein Weg zu Jekyll"
+title: "Kommunikation wird zur Blackbox"
 ---
 
 ## Unternehmenskommunikation wird zur Blackbox
