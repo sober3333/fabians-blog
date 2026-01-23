@@ -11,8 +11,8 @@ Auf dieser Seite stelle ich ausgewählte Medien-Snippets rund um meine Arbeit in
 Ganz frisch veröffentlicht: Mein <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=6911630162572779520">Newsletter auf LinkedIn</a>.
 
 ### Social Media für hubergroup
-Als Head of Global Corporate Communications habe ich den <a href="https://www.linkedin.com/company/hubergroup/">LinkedIn-Kanal</a> in seiner heutigen Form entwickelt. Zusammen mit meinem Team und unserer Social Media-Agentur <a href="https://nutshell.de">In A Nutshell</a> habe ich einen performanten Kanal aufgebaut (Wachstum von unter 10.000 Followern auf knapp 40.000 in vier Jahren). Durchschnmittliche Interaktionsrate >5%. 
-Besonderes Augenmerk haben wir auf handgemachte, hochwertige Content-Formate gelegt, die so auch im B2C-Umfeld funktionieren. 
+Als Head of Global Corporate Communications habe ich den <a href="https://www.linkedin.com/company/hubergroup/">LinkedIn-Kanal</a> in seiner heutigen Form entwickelt. Zusammen mit meinem Team und unserer Social Media-Agentur <a href="https://nutshell.de">In A Nutshell</a> habe ich einen performanten Kanal aufgebaut (Wachstum von unter 10.000 Followern auf knapp 40.000 in vier Jahren). Durchschnittliche Interaktionsrate >5%. 
+Besonderes Augenmerk haben wir auf handgemachte, hochwertige Content-Formate gelegt.
 
 ### Pressesprecher für hubergroup
 Siehe <a href="https://www.hubergroup.com/de/en/news/press-releases">Unternehmens-Website</a> 
