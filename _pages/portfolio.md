@@ -15,7 +15,7 @@ Als Head of Global Corporate Communications habe ich den <a href="https://www.li
 Besonderes Augenmerk haben wir auf handgemachte, hochwertige Content-Formate gelegt, die so auch im B2C-Umfeld funktionieren. 
 
 ### Pressesprecher für hubergroup
-Siehe Unternehmens-Website: https://www.hubergroup.com/de/en/news/press-releases
+Siehe <a href="https://www.hubergroup.com/de/en/news/press-releases">Unternehmens-Website</a> 
 
 ### Rollout Scompler für hubergroup
 Persönlich halte ich <a href="https://scompler.com">Scompler</a> für das aktuell beste Tool zur Steuerung von Aktivitäten in der Unternehmenskommunikation. Umfangreich, sehr anpassbar, vor allem hinsichtlich Freigaben unübertroffen. Erfordert etwas Einarbeitung, aber kann ein echter Game-Changer sein. 
@@ -23,7 +23,7 @@ Persönlich halte ich <a href="https://scompler.com">Scompler</a> für das aktue
 ### Podiums-Diskussion zu Generativer KI
 ![IDX Panel Fabian Meyer-Theobaldy](<../assets/images/IDX Panel Munich.png>)
 Am 25.4.2024 hatte ich die Gelegenheit an einer sehr spannenden Podiumsdiskussion im IDX in München teilzunehmen.   
-Link zum Event: https://idxyourstage.com/events/generative-ki-muenchen/
+<a href="https://idxyourstage.com/events/generative-ki-muenchen/">Link zum Event</a> 
 
 ### LinkedIn für Giesecke+Devrient
 Den Kanal <a href="https://www.linkedin.com/company/giesecke-devrient/">Giesecke+Devrient </a> habe ich 2018 mit knapp 10.000 Follower übernommen. Nach meinem Ausscheiden 2021 stand er dann kurz vor den 100.000. Auch hier haben wir es im Team gut geschafft, komplexe Themen gut verständlich für verschiedene Zielgruppen aufzubereiten. 
@@ -34,10 +34,10 @@ Für G+D habe ich inhaltlich den Relaunch der <a href="https://gi-de.com">Websit
 ### Artikel in der W&V zur digitalen Arbeitswelt
 ![WUV Remote Work](<../assets/images/wuv remote work.png>)
 Interview zu digitaler Zusammenarbeit zwischen Agentur und Unternehmen (während Corona) in der W&V.  
-Link zum Bericht: https://www.wuv.de/Archiv/Wie-die-virtuelle-Kollaboration-mit-dem-Kunden-gelingt
+<a href="https://www.wuv.de/Archiv/Wie-die-virtuelle-Kollaboration-mit-dem-Kunden-gelingt">Link zum Bericht</a>
 
 ### Beitrag in "Rechtskultur". Zeitschrift für europäische Rechtsgeschichte
 ![Rechtskultur Fabian Meyer-Theobaldy](<../assets/images/ueberwachen und strafen.png>)
 Ein wissenschaftlicher Beitrag, zusammen mit meiner Frau verfasst.  
-Link zum Dokument: https://intrechtdok.de/receive/mir_mods_00009895
+<a href="https://intrechtdok.de/receive/mir_mods_00009895">Link zum Dokument</a> 
 
